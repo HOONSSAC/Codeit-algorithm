@@ -1,0 +1,21 @@
+def binary_search(element, some_list):
+    index = 0
+    while len(some_list)!=0 :
+        i = len(some_list) // 2
+        
+        if element > some_list[i]:
+            some_list = some_list[i+1:]
+            index = index + i + 1
+        elif element < some_list[i]:
+            some_list = some_list[:i]
+        elif element ==  some_list[i]:
+            index = index + i
+            return index
+    
+    return None
+    
+print(binary_search(2, [2, 3, 5, 7, 11]))
+print(binary_search(0, [2, 3, 5, 7, 11]))
+print(binary_search(5, [2, 3, 5, 7, 11]))
+print(binary_search(3, [2, 3, 5, 7, 11]))
+print(binary_search(11, [2, 3, 5, 7, 11]))
