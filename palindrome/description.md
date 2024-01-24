@@ -17,14 +17,11 @@ print(is_palindrome("hello"))
 
 ```
 ```
-
-
 True
 False
 True
 True
 False
-
 ```
 
 
