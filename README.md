@@ -1,5 +1,4 @@
 ## 🖥️[코드잇] - 알고리즘 패러다임
-### 문제 풀이 기록
 #### 🚩for loop
 - [Palindrome 판별하기](https://velog.io/@b1uesoda/palindrome-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)
 - [Linear Search 구현하기](https://velog.io/@b1uesoda/%EC%84%A0%ED%98%95-%ED%83%90%EC%83%89-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0)
