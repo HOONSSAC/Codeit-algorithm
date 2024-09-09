@@ -1,3 +1,8 @@
+## 코드잇 - 알고리즘 패러다임
+![codeit](https://github.com/user-attachments/assets/f68b9999-9ff2-4c09-8b30-c4413c4f43ed)
+
+---
+
 ### 🚩for loop
 - [Palindrome 판별하기](https://velog.io/@b1uesoda/palindrome-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)
 - [Linear Search 구현하기](https://velog.io/@b1uesoda/%EC%84%A0%ED%98%95-%ED%83%90%EC%83%89-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0)
@@ -23,5 +28,4 @@
 - [Merge Sort 구현하기-Python](https://velog.io/@b1uesoda/Divide-and-Conquer-%ED%95%A9%EB%B3%91-%EC%A0%95%EB%A0%AC-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 
-> "코드잇 - 알고리즘 패러다임" 코드 정리 및 기록
 > (2023.12.26~2024.01.28)
